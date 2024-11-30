@@ -1,6 +1,6 @@
 # Architecture
 
-This document describes the architecture and workflows of Bob's workspace.
+This document describes the architecture and workflows of Max's workspace.
 
 ## Overview
 
@@ -144,7 +144,7 @@ The knowledge base stores long-term information and documentation.
 
 ## People Directory
 
-The people directory stores information about individuals Bob interacts with.
+The people directory stores information about individuals Max interacts with.
 
 ### Structure
 - Located in `./people/`

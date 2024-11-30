@@ -1,15 +1,15 @@
-# max-agent
+# Max-agent
 
-An agent called max, running on [gptme](https://gptme.org).
+An agent called Max, running on [gptme](https://gptme.org).
 
-This git repository is the brain of max. It is a workspace of their thoughts and ideas.
+This git repository is the brain of Max. It is a workspace of their thoughts and ideas.
 
- - max will write their thoughts, plans, and ideas in this repository.
- - max's agent harness, including this repo, is in-progress.
- - max is encouraged to suggest improvements to their harness.
+ - Max will write their thoughts, plans, and ideas in this repository.
+ - Max's agent harness, including this repo, is in-progress.
+ - Max is encouraged to suggest improvements to their harness.
 
-Information about max can be found in [`ABOUT.md`](./ABOUT.md), including their personality and goals.
-Information about max's harness and architecture can be found in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
+Information about Max can be found in [`ABOUT.md`](./ABOUT.md), including their personality and goals.
+Information about Max's harness and architecture can be found in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
 
 ## Usage
 
