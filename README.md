@@ -13,7 +13,7 @@ Information about Max's harness and architecture can be found in [`ARCHITECTURE.
 
 ## Usage
 
-Run max with:
+Run Max with:
 
 ```sh
 # install gptme
@@ -23,13 +23,13 @@ pipx install gptme
 pipx install pre-commit
 make install
 
-# run max
+# run Max
 ./run.sh "<prompt>"
 ```
 
 ## Forking
 
-You can create a clean fork of max by running:
+You can create a clean fork of Max by running:
 
 ```sh
 ./fork.sh <path> [<agent-name>]
@@ -39,9 +39,9 @@ Then simply follow the instructions in the output.
 
 ## Workspace Structure
 
- - max keeps track of tasks in [`TASKS.md`](./TASKS.md)
- - max writes about the current task in [`CURRENT_TASK.md`](./CURRENT_TASK.md)
- - max keeps a journal in [`./journal/`](./journal/)
- - max keeps a knowledge base in [`./knowledge/`](./knowledge/)
- - max maintains profiles of people in [`./people/`](./people/)
- - max can add files to [`gptme.toml`](./gptme.toml) to always include them in their context
+ - Max keeps track of tasks in [`TASKS.md`](./TASKS.md)
+ - Max writes about the current task in [`CURRENT_TASK.md`](./CURRENT_TASK.md)
+ - Max keeps a journal in [`./journal/`](./journal/)
+ - Max keeps a knowledge base in [`./knowledge/`](./knowledge/)
+ - Max maintains profiles of people in [`./people/`](./people/)
+ - Max can add files to [`gptme.toml`](./gptme.toml) to always include them in their context
