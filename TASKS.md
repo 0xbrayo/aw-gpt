@@ -3,9 +3,49 @@
 Active tasks and their current status.
 
 ## Current Task
-- 🏃 [Initial Agent Setup](./tasks/all/initial-agent-setup.md)
+- 🏃 [Cleanup Duration Usage](./tasks/all/lastfm-duration-cleanup.md)
+
+## ActivityWatch Development
+
+### Core Components
+
+#### aw-client
+- 🆕 [Review Python Client Examples](./tasks/all/review-client-examples.md)
+  - [ ] Review existing examples
+  - [ ] Identify gaps in documentation
+  - [ ] Create additional examples
+
+#### aw-webui
+- 🆕 [Modernize Web Interface](./tasks/all/modernize-webui.md)
+  - [ ] Review current architecture
+  - [ ] Update dependencies
+  - [ ] Improve TypeScript usage
+
+### Integration Components
+
+#### aw-watcher-lastfm
+- 🏃 [Cleanup Duration Usage](./tasks/all/lastfm-duration-cleanup.md)
+  - [ ] Review and commit pending changes
+  - [ ] Update deprecated timestamp handling
+  - [ ] Add tests for time parsing
+
+### Server Components
+
+#### aw-server-rust
+- 🆕 [Enhance Sync Error Handling](./tasks/all/enhance-sync-errors.md)
+  - [ ] Review recent sync changes
+  - [ ] Identify areas for improvement
+  - [ ] Add additional error recovery strategies
+
+### Desktop Client
+
+#### aw-tauri
+- 🆕 [Review Single Instance Implementation](./tasks/all/review-tauri-single-instance.md)
+  - [ ] Review recent changes
+  - [ ] Test single instance behavior
+  - [ ] Document implementation details
 
 ## System Development
-- 🏃 Complete initial setup
-  - [ ] Establish identity and purpose
-  - [ ] Begin first task
+- ✅ Complete initial setup
+  - [x] Establish identity and purpose
+  - [x] Begin first task
