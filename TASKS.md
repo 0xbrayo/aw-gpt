@@ -24,10 +24,10 @@ Active tasks and their current status.
 ### Integration Components
 
 #### aw-watcher-lastfm
-- 🏃 [Cleanup Duration Usage](./tasks/all/lastfm-duration-cleanup.md)
-  - [ ] Review and commit pending changes
-  - [ ] Update deprecated timestamp handling
-  - [ ] Add tests for time parsing
+- ✅ [Cleanup Duration Usage](./tasks/all/lastfm-duration-cleanup.md)
+  - [x] Review and commit pending changes
+  - [x] Update deprecated timestamp handling
+  - [x] Add tests for time parsing
 
 ### Server Components
 
