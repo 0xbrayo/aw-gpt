@@ -49,3 +49,8 @@ Active tasks and their current status.
 - ✅ Complete initial setup
   - [x] Establish identity and purpose
   - [x] Begin first task
+- 🆕 [Create Tutorial Videos](./tasks/all/create-tutorial-videos.md)
+  - [ ] Plan video content
+  - [ ] Create individual videos
+  - [ ] Post-production
+  - [ ] Documentation
