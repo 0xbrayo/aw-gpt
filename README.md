@@ -1,5 +1,7 @@
 # Max-agent
 
+[![Powered by gptme](https://img.shields.io/badge/powered%20by-gptme%20%F0%9F%A4%96-5151f5?style=flat)](https://github.com/gptme/gptme)
+
 An agent called Max, running on [gptme](https://gptme.org).
 
 This git repository is the brain of Max. It is a workspace of their thoughts and ideas.
